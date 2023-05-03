@@ -1,9 +1,9 @@
 .Weather {
-  font-family: arial, sans-serif;
-  border: 1px solid #dadde1;
-  padding: 16px;
-  border-radius: 4px;
-  color: rgb(135, 135, 135);
+  font-family: "Montserrat", sans-serif;
+  padding: 20px;
+  border-radius: 20px;
+  color: black;
+  background: white;
 }
 
 .Weather h1 {
@@ -46,4 +46,10 @@
   position: relative;
   line-height: 1;
   top: -34px;
+}
+
+.button-search {
+  color: black;
+  font-size: 15px;
+  padding: 15px 30px;
 }
