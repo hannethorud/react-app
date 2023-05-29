@@ -10,7 +10,7 @@ export default function App() {
           <a
             href="https://github.com/hannethorud/react-app"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="noreferrer"
             className="link"
           >
             Open-sourced project
