@@ -9,7 +9,7 @@ link {
 }
 
 .App {
-  width: 446px;
+  width: 500px;
   border-radius: 20px;
   margin: 40px auto;
   display: block;
@@ -20,7 +20,8 @@ link {
 
 .App footer {
   font-size: 12px;
-  margin: 10px 0;
+  margin: 20px 0;
+  text-align: center;
 }
 
 .link {
@@ -29,7 +30,11 @@ link {
   font-family: "Montserrat", sans-serif;
 }
 
-a:link {
+a.App {
+  color: black;
+}
+
+.App a:link {
   text-decoration: none;
   color: black;
   font-family: "Montserrat", sans-serif;

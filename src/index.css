@@ -1,0 +1,11 @@
+a:link {
+  text-decoration: none;
+  color: black;
+  font-family: "Montserrat", sans-serif;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+  font-family: "Montserrat", sans-serif;
+}
